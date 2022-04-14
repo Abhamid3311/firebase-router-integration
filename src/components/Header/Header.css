@@ -1,0 +1,11 @@
+.header nav a {
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.header nav a:hover {
+    color: orange;
+}
